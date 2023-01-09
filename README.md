@@ -1,10 +1,10 @@
 # Seja bem-vindo ao projeto React Testing Library!! 🧪
 
-#### Nesse projeto tive o prazer de realçar meus conhecimentos de testagem de código. Usando de <a href="https://testing-library.com/">Testing Library</a> pude ampliar oque eu ja tinha algum conhecimento com Jest para testar códigos em React.
+#### Nesse projeto tive o prazer de realçar meus conhecimentos de testagem de código. Usando de <a href="https://testing-library.com/">React Testing Library</a> pude ampliar oque eu ja tinha algum conhecimento com Jest para testar códigos em React.
 
 ## Tecnologias:
 
-- Testing Library 
+- React Testing Library 
 - Jest
 - React
 - Java Script
